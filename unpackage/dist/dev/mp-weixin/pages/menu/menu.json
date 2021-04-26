@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "虫虫带",
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "modal": "/components/modal/modal",
+    "popup-layer": "/components/popup-layer/popup-layer"
+  }
+}

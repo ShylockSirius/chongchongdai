@@ -1,0 +1,71 @@
+export default [{
+	"id": 1,
+	"accept_name": "刘晓明",
+	"mobile": "15658390097",
+	"province_name": "河北省",
+	"area": 440306,
+	"city": 440300,
+	"sex": 0,
+	"district": {
+		"districts": "河北省保定市莲池区",
+		"area": "莲池区",
+		"city": "保定市",
+		"province": "河北省"
+	},
+	"street": "河北农业大学八号公寓A区222",
+	"inner": false,
+	"lat": "",
+	"door_number": "AB1234",
+	"is_default": 0,
+	"province": 440000,
+	"area_name": "莲池区",
+	"city_name": "保定市",
+	"poiname": ""
+},{
+	"id": 2,
+	"accept_name": "刘晓明",
+	"mobile": "15658390097",
+	"province_name": "河北省",
+	"area": 440306,
+	"city": 440300,
+	"sex": 0,
+	"district": {
+		"districts": "河北省保定市莲池区",
+		"area": "莲池区",
+		"city": "保定市",
+		"province": "河北省"
+	},
+	"street": "河北农业大学二教201",
+	"inner": false,
+	"lat": "",
+	"door_number": "AB1234",
+	"is_default": 0,
+	"province": 440000,
+	"area_name": "莲池区",
+	"city_name": "保定市",
+	"poiname": ""
+}, 
+{
+	"id": 3,
+	"accept_name": "刘晓明",
+	"mobile": "15658390097",
+	"province_name": "河北省",
+	"area": 440306,
+	"city": 440300,
+	"sex": 0,
+	"district": {
+		"districts": "河北省保定市莲池区",
+		"area": "莲池区",
+		"city": "保定市",
+		"province": "河北省"
+	},
+	"street": "河北农业大学五号宿舍楼111",
+	"inner": false,
+	"lat": "",
+	"door_number": "AB1234",
+	"is_default": 0,
+	"province": 440000,
+	"area_name": "莲池区",
+	"city_name": "保定市",
+	"poiname": ""
+},]

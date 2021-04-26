@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我要稍带",
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#ffffff",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "list-cell": "/components/list-cell/list-cell"
+  }
+}
